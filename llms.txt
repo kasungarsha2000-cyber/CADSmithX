@@ -1,0 +1,26 @@
+# CADSmitX
+
+> CADSmitX develops custom CAD models for steel structures, conveyors, and automated machinery. We work from a customer's idea, sketches, dimensions, and references to produce models that communicate a design clearly.
+
+CADSmitX provides CAD modeling and design communication only. We do not carry
+out fabrication, installation, certified structural calculations, or electrical
+and control programming. Scope, deliverable file formats, pricing, and timing
+are agreed per project rather than published as fixed offerings.
+
+Project inquiries are handled over WhatsApp. The website prepares a message
+from a form; the customer reviews it and sends it themselves.
+
+## Services
+
+- [Steel Structures](/#services): Steel frames, access platforms and walkways, support structures and stands, bracing arrangements, and connection detail modeling.
+- [Conveyors](/#services): Belt conveyors including frames, pulleys and take-up arrangements; gravity and driven roller conveyors; custom multi-section layouts; transfers, guiding, guarding, and support stands.
+- [Automated Machines](/#services): Pick-and-place arrangements and handling heads, packing machine concepts, custom mechanical assemblies for automation concepts, and machine framing, mounting, guarding, and access.
+
+## How it works
+
+- [Process](/#process): Share your idea, discuss the scope, develop and review the CAD model, then agree the deliverables and hand over.
+
+## Optional
+
+- [Concept Gallery](/#concepts): Illustrative concept visualizations of the kinds of assemblies CADSmitX models. These are NOT completed customer projects and carry no performance claims. Completed work will be added and clearly marked as such when it becomes available.
+- [FAQ](/#faq): Answers on starting from a sketch, what information to send, custom requests, and how scope, pricing, timing, and file formats are determined.
